@@ -1,6 +1,6 @@
 # College_Demo
 This is my first Git Repository.
 <br>
-Auther MD RAHMAN
+Auther MD RAHMAN(college demo)
 
 
